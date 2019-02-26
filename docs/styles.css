@@ -1,0 +1,265 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:300,400');
+
+@font-face {
+  font-family: "Dunny Pen NTS";
+  src: url("../Dunny Pen NTS/DunnyPenNTS-Regular.woff2") format("woff2"),
+       url("../Dunny Pen NTS/DunnyPenNTS-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Dunny Gothick NTS";
+  src: url("../Dunny Gothick/DunnyGothickNTS-Regular.woff2") format("woff2"),
+       url("../Dunny Gothick/DunnyGothickNTS-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "D'uncial";
+  src: url("../D'uncial/Duncial-Regular.woff2") format("woff2"),
+       url("../D'uncial/Duncial-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Deretheni";
+  src: url("../Deretheni/Deretheni-Black.woff2") format("woff2"),
+       url("../Deretheni/Deretheni-Black.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Hevtee Kornay NTS";
+  src: url("../Hevtee Kornay NTS/HevteeKornayNTS-Regular.woff2") format("woff2"),
+       url("../Hevtee Kornay NTS/HevteeKornayNTS-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Kerath Hand";
+  src: url("../Kerath Hand/KerathHand-Cursive.woff2") format("woff2"),
+       url("../Kerath Hand/KerathHand-Cursive.woff") format("woff");
+}
+
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body, h1, h2, h3, h4, h5, h6, p, ol, ul {
+  margin: 0;
+  padding: 0;
+  font-weight: normal;
+}
+
+ol, ul {
+  list-style: none;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* ----- */
+
+body, html {
+  font-family: 'Rubik';
+  font-size: 24px;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1 {
+  font-size: 24px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  color: black;
+  display: block;
+  margin: 0 0 .5em 0;
+}
+
+a {
+  color: #0084ff;
+}
+
+.sample {
+  font-size: 80px;
+  /* white-space: nowrap; */
+  padding: 0 0 20px 0;
+  border-bottom: 2px solid #0084ff;
+}
+
+.sample:focus {
+  outline: none;
+  color: #0084ff;
+}
+
+.sample::selection {
+  background: #fff8ce;
+  color: black;
+}
+
+section {
+  padding: 100px;
+  overflow-x: scroll;
+}
+
+main section {
+  border-bottom: 1px solid silver;
+  min-height: 25vh;
+}
+
+/* main section:nth-child(2) {
+  background: #efefef;
+} */
+
+main section:last-child {
+  border-bottom: none;
+}
+
+main section h1 {
+  color: #0084ff;
+  font-weight: 400;
+}
+
+.downloads {
+  display: flex;
+  flex-direction: row;
+  font-size: 18px;
+  margin: 1em 0 0 0;
+  line-height: 1.5em;
+}
+
+.downloads h2 {
+  font-size: 18px;
+  margin-right: 20px;
+}
+
+.downloads ul {
+  display: flex;
+  flex-direction: row;
+}
+
+.downloads li {
+  margin-right: 20px;
+}
+
+.downloads a {
+  color: #666666;
+  text-decoration: none;
+}
+
+.downloads a:hover {
+  color: #0084ff;
+  text-decoration: underline;
+}
+
+#logo {
+  width: 50px;
+  height: 50px;
+  fill: #666666;
+  margin: 0 0 1em 0;
+}
+
+header {
+  width: 100vw;
+  height: 70vh;
+  background: black;
+  color: #dad097;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  border-bottom: none;
+  padding: 100px;
+  border-top: 5px solid #0084ff;
+}
+
+header h1 {
+  color: white;
+}
+
+header a {
+  color: #0084ff;
+}
+
+header .intro {
+  font-size: 48px;
+  line-height: 1.5em;
+  font-weight: 300;
+}
+
+#dunny-pen-nts .sample {
+  font-family: 'Dunny Pen NTS';
+}
+
+#dunny-gothick-nts .sample {
+  font-family: 'Dunny Gothick NTS';
+}
+
+#duncial .sample {
+  font-family: 'D\'uncial';
+}
+
+#deretheni .sample {
+  font-family: 'Deretheni';
+}
+
+#hevtee-kornay-nts .sample {
+  font-family: 'Hevtee Kornay NTS';
+}
+
+#kerath-hand .sample {
+  font-family: 'Kerath Hand';
+}
+
+footer {
+  background: black;
+  color: #dad097;
+  padding: 100px;
+  font-size: 18px;
+  line-height: 1.5em;
+}
+
+@media only screen and (max-width: 920px) {
+  header .intro {
+    font-size: 36px;
+  }
+}
+
+@media only screen and (max-width: 640px) {
+
+  header {
+    height: auto;
+    min-height: 80vh;
+    padding: 30px;
+  }
+
+  header .intro {
+    font-size: 24px;
+  }
+
+  .downloads {
+    flex-direction: column;
+  }
+
+  #hevtee-kornay-nts .downloads ul {
+    flex-direction: column;
+  }
+
+  section {
+    padding: 30px;
+  }
+
+  main section {
+    min-height: 60vh;
+  }
+  
+  .sample {
+    font-size: 50px;
+  }
+
+  footer {
+    padding: 30px;
+    font-size: 16px;
+  }
+}
