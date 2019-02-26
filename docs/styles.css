@@ -2,38 +2,38 @@
 
 @font-face {
   font-family: "Dunny Pen NTS";
-  src: url("../Dunny Pen NTS/DunnyPenNTS-Regular.woff2") format("woff2"),
-       url("../Dunny Pen NTS/DunnyPenNTS-Regular.woff") format("woff");
+  src: url("https://raw.githubusercontent.com/Isosceles/Dunny-Fonts/master/Dunny%20Pen%20NTS/DunnyPenNTS-Regular.woff2") format("woff2"),
+       url("https://raw.githubusercontent.com/Isosceles/Dunny-Fonts/master/Dunny%20Pen%20NTS/DunnyPenNTS-Regular.woff") format("woff");
 }
 
 @font-face {
   font-family: "Dunny Gothick NTS";
-  src: url("../Dunny Gothick/DunnyGothickNTS-Regular.woff2") format("woff2"),
-       url("../Dunny Gothick/DunnyGothickNTS-Regular.woff") format("woff");
+  src: url("https://raw.githubusercontent.com/Isosceles/Dunny-Fonts/master/Dunny%20Gothick/DunnyGothickNTS-Regular.woff2") format("woff2"),
+       url("https://raw.githubusercontent.com/Isosceles/Dunny-Fonts/master/Dunny%20Gothick/DunnyGothickNTS-Regular.woff") format("woff");
 }
 
 @font-face {
   font-family: "D'uncial";
-  src: url("../D'uncial/Duncial-Regular.woff2") format("woff2"),
-       url("../D'uncial/Duncial-Regular.woff") format("woff");
+  src: url("https://raw.githubusercontent.com/Isosceles/Dunny-Fonts/master/D%27uncial/Duncial-Regular.woff2") format("woff2"),
+       url("https://raw.githubusercontent.com/Isosceles/Dunny-Fonts/master/D%27uncial/Duncial-Regular.woff") format("woff");
 }
 
 @font-face {
   font-family: "Deretheni";
-  src: url("../Deretheni/Deretheni-Black.woff2") format("woff2"),
-       url("../Deretheni/Deretheni-Black.woff") format("woff");
+  src: url("https://raw.githubusercontent.com/Isosceles/Dunny-Fonts/master/Deretheni/Deretheni-Black.woff2") format("woff2"),
+       url("https://raw.githubusercontent.com/Isosceles/Dunny-Fonts/master/Deretheni/Deretheni-Black.woff") format("woff");
 }
 
 @font-face {
   font-family: "Hevtee Kornay NTS";
-  src: url("../Hevtee Kornay NTS/HevteeKornayNTS-Regular.woff2") format("woff2"),
-       url("../Hevtee Kornay NTS/HevteeKornayNTS-Regular.woff") format("woff");
+  src: url("https://raw.githubusercontent.com/Isosceles/Dunny-Fonts/master/Hevtee%20Kornay%20NTS/HevteeKornayNTS-Regular.woff2") format("woff2"),
+       url("https://raw.githubusercontent.com/Isosceles/Dunny-Fonts/master/Hevtee%20Kornay%20NTS/HevteeKornayNTS-Regular.woff") format("woff");
 }
 
 @font-face {
   font-family: "Kerath Hand";
-  src: url("../Kerath Hand/KerathHand-Cursive.woff2") format("woff2"),
-       url("../Kerath Hand/KerathHand-Cursive.woff") format("woff");
+  src: url("https://raw.githubusercontent.com/Isosceles/Dunny-Fonts/master/Kerath%20Hand/KerathHand-Cursive.woff2") format("woff2"),
+       url("https://raw.githubusercontent.com/Isosceles/Dunny-Fonts/master/Kerath%20Hand/KerathHand-Cursive.woff") format("woff");
 }
 
 html {
