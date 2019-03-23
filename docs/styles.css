@@ -125,6 +125,16 @@ main section h1 {
   font-weight: 400;
 }
 
+.description {
+  font-size: 16px;
+  line-height: 1.5em;
+  color: #333333;
+}
+
+.description p+p {
+  margin-top: 1em;
+}
+
 .downloads {
   display: flex;
   flex-direction: row;
@@ -166,7 +176,7 @@ main section h1 {
 
 header {
   width: 100vw;
-  height: 70vh;
+  min-height: 70vh;
   background: black;
   color: #dad097;
   display: flex;
@@ -222,6 +232,15 @@ footer {
   padding: 100px;
   font-size: 18px;
   line-height: 1.5em;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+footer .illustration {
+  width: 64px;
+  height: auto;
+  margin: 0 1em 0 0;
 }
 
 @media only screen and (max-width: 920px) {
@@ -265,5 +284,11 @@ footer {
   footer {
     padding: 30px;
     font-size: 16px;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  footer .illustration {
+    margin: 0 0 .5em 0;
   }
 }
