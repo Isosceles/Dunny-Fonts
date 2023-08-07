@@ -1,44 +1,93 @@
-# Dunny Fonts
+Copyright (c) 2023, Lauren Herda (lauren@herda.me)
 
-by Lauren Herda
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
 
-Copyright (c) 2019, Lauren Herda <lauren@herda.me>.
 
-Thanks for downloading this font set! Here's just a few things to know regarding its use.
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
 
-## License
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
 
-Use of this font software constitutes agreement to the license.
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded,
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
 
-- This license is between you and the copyright holder. 
-- This license is not exclusive nor transferrable. 
-- You may not resell or redistribute this font software or a modified version of it. 
-- This font software may be used only for non-commercial, personal use. To inquire about a license for commercial use, contact the copyright holder at the provided address.
-- This license remains in effect until terminated. If you breach the license, it automatically terminates. After the license is terminated, you must delete all copies you have made of the font software.
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
 
-The font software includes a webfont kit. The licensee may use it on any number of domains owned by the licensee, via a @font-face CSS directive, provided you use only the included WOFF or EOT files to do so and that each domain receives fewer than 1 million page views. Font replacement techniques such as Cufón or
-typeface.js are not permitted.
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
 
-This license is governed by the laws of the State of Maryland and the font software is protected under copyright by the laws of the United States.
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
 
-## Notes
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
 
-This font software _does not_ contain standard Latin script but instead is designed for use with D'ni, a constructed language from the Myst video game universe, developed by Cyan Inc. / Cyan Worlds Inc. This font software is in no way owned, endorsed, or supported by Cyan Inc. / Cyan Worlds Inc.
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
 
-It is important to note that this font software makes use of the New Transcription Standard for D'ni, otherwise known as NTS. Each character of D'ni corresponds to a glyph in this typeface. For a handy reference for NTS, see the D'ni Font Chart (http://www.mystembassy.net/downloads/dnifontchart.pdf).
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
 
-## Definitions
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
 
-"Font Software" is understood to mean the included font files, documentation, and any source files released as part of this package.
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
 
-"Webfont" is understood to mean the files included with the font software that have been optimized for displaying text on a website.
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
 
-"Domain" is understood to mean the host name of the homepage of a website.
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
 
-"Website" is understood to mean a collection of web pages located under a common domain.
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
 
-"You", "your", "end user", and "licensee" are understood to mean the licensee of the font software, and for the purposes of webfonts are understood to also be the owner of the domain of the website using the font software.
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
 
-## Disclaimer
-
-THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
