@@ -17,5 +17,5 @@ To date, it contains the following typefaces:
 ### WIP / Experimental
 
 - Deretheni (Black)
-- Dunny Gothick (Regular)
+- Dunny Gothick NTS (Regular)
 - Kerath Hand (Cursive)
